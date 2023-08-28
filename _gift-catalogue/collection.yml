@@ -2,6 +2,7 @@ collections:
   gift-catalogue:
     output: true
     order:
+      - Fossa Chocolate.md
       - The Art Faculty.md
       - Onlewo.md
       - CRIS Tech Gifts.md
