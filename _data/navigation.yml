@@ -3,6 +3,6 @@ links:
   - title: Gift Request Form
     url: /contact-us/
   - title: Gift Catalogue
-    collection: example-folder
-  - title: Need Help?
-    collection: example-folder
+    collection: gift-catalogue
+  - title: Gift Catalogue
+    collection: gift-catalogue
