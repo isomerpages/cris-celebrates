@@ -5,9 +5,8 @@ description: ""
 ---
 ##### **C1. Laser Pointer**
 
-| Product Details | Column 2 | Column 3 |
+| Product Details | | |
 | -------- | -------- | -------- |
-| Cost     | Text     | Text     |
-| Description    | Text     | Text     |
-| Dimensions     | Text     | Text     |
-
+| Cost     | -     |
+| Description    | Wireless presenter with built-in slide controls and USB plug-in receiver   |
+| Dimensions     | 11cm by 3.5cm (Laser Pointer), 16cm by 7cm (Gift Box)   | 
