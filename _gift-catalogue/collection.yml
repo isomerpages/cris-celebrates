@@ -2,5 +2,6 @@ collections:
   gift-catalogue:
     output: true
     order:
+      - The Art Faculty.md
       - Onlewo.md
       - CRIS Tech Gifts.md
