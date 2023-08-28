@@ -1,8 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: view catalogue
-    url: /contact-us/
   - title: gift request form
-    url: /example-page/
-  - title: contact us
+    url: /contact-us/
+  - title: gift catalogue
+    collection: example-folder
+  - title: need help?
     collection: example-folder
