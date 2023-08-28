@@ -2,4 +2,4 @@ collections:
   gift-catalogue:
     output: true
     order:
-      - folder-page.md
+      - CRIS Tech Gifts.md
