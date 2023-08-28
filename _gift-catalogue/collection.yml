@@ -2,6 +2,7 @@ collections:
   gift-catalogue:
     output: true
     order:
+      - QUA Singapore.md
       - Fossa Chocolate.md
       - The Art Faculty.md
       - Onlewo.md
