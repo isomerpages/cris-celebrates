@@ -11,5 +11,5 @@ permalink: /faq/
 
 * Seek an email approval from your RO, clearly stating the selected item(s) and costs. The email should include an additional liner if customisation is required.
 
-* Fill out the \[Gift Request Form\](for.sg/cris-corp-form) and attach the email approval.
+* Fill out the [Gift Request Form](for.sg/cris-corp-form) and attach the email approval.
 * Please note that the Gift Request Form is the official channel for requesting gifts, and it is essential to provide the required information accurately.
