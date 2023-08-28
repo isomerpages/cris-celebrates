@@ -14,16 +14,16 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: CRIS Tech Gifts
-          description: Important highlight A is important
+          description: Practical and tech-themed
           url: https://google.com
         - title: Onlewo
-          description: Important highlight B is equally important
+          description: Charm and beauty of Singapore
           url: https://gmail.com
         - title: The Art Faculty
-          description: Page A is important too
+          description: Celebrating special talents
           url: /privacy/
         - title: QUA
-          description: Key Highlight description
+          description: Distinctive lacquerware
           url: ""
   - infobar:
       title: FAQ
