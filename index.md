@@ -15,16 +15,16 @@ sections:
       key_highlights:
         - title: CRIS Tech Gifts
           description: Practical and tech-themed
-          url: https://google.com
+          url: /cris-tech/
         - title: Onlewo
           description: Charm and beauty of Singapore
-          url: https://gmail.com
+          url: /onlewo/
         - title: The Art Faculty
           description: Celebrating special talents
-          url: /privacy/
+          url: /art-faculty/
         - title: QUA
           description: Distinctive lacquerware
-          url: ""
+          url: /qua/
   - infobar:
       title: FAQ
       subtitle: how do i request for a gift?
