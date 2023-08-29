@@ -11,7 +11,7 @@ sections:
       title: CRIS Corporate Gift Catalogue
       background: /images/hero-banner.png
       button: View full catalogue
-      url: /contact-us/
+      url: /cris-tech/
       key_highlights:
         - title: CRIS Tech Gifts
           description: Practical and tech-themed
