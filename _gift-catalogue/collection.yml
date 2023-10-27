@@ -1,0 +1,9 @@
+collections:
+  gift-catalogue:
+    output: true
+    order:
+      - CRIS Tech Gifts.md
+      - Fossa Chocolate.md
+      - Onlewo.md
+      - The Art Faculty.md
+      - QUA Singapore.md
