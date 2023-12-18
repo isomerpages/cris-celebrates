@@ -2,8 +2,9 @@
 title: CRIS Tech Gifts
 permalink: /gift-catalogue/cris-tech/
 description: ""
+variant: markdown
 ---
-##### **These gifts are ideal for local event speakers and semi-formal engagements. You may collect the gifts immediately upon approval of request.**
+##### **These gifts are ideal for local event speakers and semi-formal engagements. You may collect the gifts within 1 to 2 working days upon approval of request.**
 
 -------
 
